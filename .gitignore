@@ -31,10 +31,7 @@ yarn-error.log*
 
 # env files (can opt-in for commiting if needed)
 .env*
-<<<<<<< HEAD
-=======
 !.env.example
->>>>>>> develop
 
 # vercel
 .vercel
@@ -42,9 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-<<<<<<< HEAD
-=======
 
 # firebase
 .firebase/
->>>>>>> develop
